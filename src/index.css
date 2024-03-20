@@ -1,13 +1,98 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+
+.EData div{
+  border:  1px solid;
+  width: 100px;
+  text-align: center;
+ }
+ .ED{
+  border-radius: 40%;
+  background-color: black;
+  color: red;
+ }
+ .EU{
+  border-radius: 40%;
+  background-color: blue;
+  color: red;
+ }
+ .EA{
+ 
+  background-color: green;
+  color: yellow;
+  
+ }
+ .bb{
+  color: blue;
+ }
+ .b2{
+  background-color:yellow ;
+  color: blue;
+ }
+ .EList{
+   margin-left:250px;
+   width: 200PX;
+ } 
+
+
+ .TS{
+ 
+color: blueviolet;
+ 
+ } 
+
+
+
+ .EData{
+ background-color: aquamarine;
+ border:  1px solid black;
+ width: fit-content;
+ display: flex;
+
+} 
+
+.employeeList{
+  margin-left: 350px;
+  margin: 10px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.employeeData{
+ background-color: aquamarine;
+ border:  1px solid black;
+ width: fit-content;
+ display: flex;
+}
+
+.employeeData div{
+  border:  1px solid;
+  width: 100px;
+  text-align: center;
+ }
+
+ .employeeData button{
+ margin-left: 12px;
+ margin-right: 10px;
+ border:  1px solid;
+ width: 80px;
+
+ }
+
+
+ .he{
+  font-size: 20px;
+ }
+
+ .navbarScroll.navbarDark {
+  background-color: black;
+}
+.nav-link{
+  border: 2px solid red;
+  border-radius: 20%;
+  background-color: black;
+  color: red;
+}
+.navbar-brand{
+  border: 1px solid black;
+  background-color: blue;
+  color: rgb(220, 201, 201);
+
 }
