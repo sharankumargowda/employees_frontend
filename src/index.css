@@ -1,4 +1,10 @@
 
+body{
+  background-image: Url("https://www.techsmashable.com/wp-content/uploads/2020/09/web-hosting.jpg");
+
+  /* background-color: blue; */
+}
+
 
 .EData div{
   border:  1px solid;
@@ -96,3 +102,4 @@ color: blueviolet;
   color: rgb(220, 201, 201);
 
 }
+
